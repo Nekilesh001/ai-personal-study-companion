@@ -154,19 +154,3 @@ User authentication system
 Learning streak tracking
 
 Notebook export feature
-
-  Author
-
-Nekilesh
-AI | Full Stack | Hackathon Builder
-
-
----
-
-If you want next:
-- Hackathon **problem statement + solution description**
-- **System architecture diagram**
-- **Pitch deck content**
-- README badges (build, license, tech stack)
-
-Just tell me 
